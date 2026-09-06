@@ -11,7 +11,7 @@ public final class UrlConstants {
   public static final String LICENSE_NOTICE =
       "https://github.com/triplea-game/triplea/blob/main/README.md#license";
   public static final String MAP_MAKER_HELP =
-      "https://github.com/triplea-game/triplea/wiki/How-to-create-custom-maps";
+      "https://github.com/triplea-game/triplea/tree/main/docs/map-making/tutorial";
   public static final String PAYPAL_DONATE =
       "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ASJLHWGTA94MW";
   public static final String RELEASE_NOTES = "https://triplea-game.org/release_notes/";
